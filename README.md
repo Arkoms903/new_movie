@@ -3,8 +3,7 @@
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="assets/screenshots/home.png" width="45%">
-  <img src="assets/screenshots/result.png" width="45%">
+  <img src="assets/home.png">
 </p>
 
 <p align="center">
