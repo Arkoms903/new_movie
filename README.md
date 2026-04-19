@@ -48,3 +48,18 @@ flowchart TD
     E --> F[Cosine Similarity 📐]
     F --> G[Top Similar Movies 🎬]
     G --> H[Streamlit Web App 🌐]
+
+📦 Movie-Recommendation-System
+ ┣ 📂 data
+ ┃ ┣ movies.csv
+ ┃ ┗ credits.csv
+ ┣ 📂 notebooks
+ ┃ ┗ movie_recommender.ipynb
+ ┣ 📂 assets
+ ┃ ┗ screenshots/
+ ┣ 📜 app.py
+ ┣ 📜 movie_dict.pkl
+ ┣ 📜 similarity.pkl
+ ┣ 📜 requirements.txt
+ ┣ 📜 README.md
+ ┗ 📜 .gitignore
