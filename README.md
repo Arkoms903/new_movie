@@ -463,7 +463,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ![Stars](https://img.shields.io/github/stars/YOUR_USERNAME/movie-recommender?style=social)
 ![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/movie-recommender?style=social)
 
-**Made with ❤️ by [Your Name](https://github.com/YOUR_USERNAME)**
+**Made with ❤️ by [Arko Bhattacharyya](https://github.com/YOUR_USERNAME)**
 
 **Last Updated**: 2026 | Python 3.8+ | Streamlit 1.28+
 
