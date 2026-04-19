@@ -53,19 +53,3 @@ flowchart TD
 
 
 
-## 📂 Project Structure
-
-```bash
-📦 Movie-Recommendation-System
- ┣ 📂 data
- ┃ ┣ movies.csv
- ┃ ┗ credits.csv
- ┣ 📂 notebooks
- ┃ ┗ movie_recommender.ipynb
- ┣ 📜 app.py
- ┣ 📜 movie_dict.pkl
- ┣ 📜 similarity.pkl
- ┣ 📜 requirements.txt
- ┣ 📜 README.md
- ┗ 📜 .gitignore
-```
