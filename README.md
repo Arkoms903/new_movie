@@ -1,7 +1,10 @@
 # 🎬 Movie Recommendation System  
 
+## 📸 Screenshots
+
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1489599849927-2ee91cede3ba?w=1200" width="100%" alt="Movie Banner"/>
+  <img src="assets/screenshots/home.png" width="45%">
+  <img src="assets/screenshots/result.png" width="45%">
 </p>
 
 <p align="center">
